@@ -1,2 +1,2 @@
 # hello-world
-first repository 
+testing learning computer science 
